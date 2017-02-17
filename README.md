@@ -1,7 +1,7 @@
 ﻿Project information
 -------------------
 
-This repository contains my files for Windows development technologies.
+This repository contains my files for Windows development technologies
 (my code snippets and my synopses about the main books' topics).
 
 
